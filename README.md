@@ -34,14 +34,14 @@ EmployeeManagement/
 - Simple and user-friendly Java Swing GUI
 
 ## 5. How to Run 🚀
-1. Clone this repository:
+- Clone this repository:
    ```bash
    git clone https://github.com/AbdullahJavaDev/EmployeeManagement.git
-2.Open the project in your favorite Java IDE (Eclipse, IntelliJ IDEA, NetBeans).
-3.Make sure MySQL server is running and the database schema is set up.
-4.Configure your database username and password in ConnectionFactory.java.
-5.Build and run the project from your IDE.
-6.Use the GUI to manage employee data.
+- Open the project in your favorite Java IDE (Eclipse, IntelliJ IDEA, NetBeans).
+- Make sure MySQL server is running and the database schema is set up.
+- Configure your database username and password in ConnectionFactory.java.
+- Build and run the project from your IDE.
+- Use the GUI to manage employee data.
 
-##6. Conclusion 🎉
+## 6. Conclusion 🎉
 This Employee Management System is a great starter project for Java beginners to learn database integration, GUI development, and basic CRUD operations. It can be further enhanced by adding login authentication, reports, and export features.
