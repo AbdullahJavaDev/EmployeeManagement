@@ -12,18 +12,7 @@ Welcome to the **Employee Management System**, a Java-based desktop application 
 
 ## 3. Project Structure 📁
 EmployeeManagement/
-├── src/
-│ ├── org/abdullpractice/connectionfactory/ConnectionFactory.java
-│ ├── org/abdullpractice/dao/EmpDao.java
-│ ├── org/abdullpractice/dao/EmpDaoInterface.java
-│ ├── org/abdullpractice/dto/EmpDto.java
-│ └── (other Java classes)
-├── images/
-│ ├── login_screen.png
-│ └── employee_list.png
-├── README.md
-└── .gitignore
-
+![Project Structure](projectStructure.png)
 
 ## 4. Features ✨
 - Add new employees to the database
@@ -46,6 +35,6 @@ EmployeeManagement/
 ## 6. Conclusion 🎉
 This Employee Management System is a great starter project for Java beginners to learn database integration, GUI development, and basic CRUD operations. It can be further enhanced by adding login authentication, reports, and export features.
 
-## 🎥 Project Demo
-▶️ [Click here to watch the demo video](assets/demo.mp4)
+## 🎥 Project Result
+▶️ [Click here to watch the demo ](crud1.png)
 
