@@ -45,3 +45,7 @@ EmployeeManagement/
 
 ## 6. Conclusion 🎉
 This Employee Management System is a great starter project for Java beginners to learn database integration, GUI development, and basic CRUD operations. It can be further enhanced by adding login authentication, reports, and export features.
+
+## 🎥 Project Demo
+▶️ [Click here to watch the demo video](assets/demo.mp4)
+
